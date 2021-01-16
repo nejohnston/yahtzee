@@ -1,0 +1,28 @@
+{
+  "upper": {
+    "player_one": {
+      "total_before_bonus": 0,
+      "bonus": null,
+      "total_upper": 0
+    },
+    "player_two": {
+      "total_before_bonus": 0,
+      "bonus": null,
+      "total_upper": 0
+    }
+  },
+  "lower": {
+    "player_one": {
+      "total_before_bonus": 0,
+      "bonus": null,
+      "yahtzee": null,
+      "total_lower": 0
+    },
+    "player_two": {
+      "total_before_bonus": 0,
+      "bonus": null,
+      "yahtzee": null,
+      "total_lower": 0
+    }
+  }
+}
